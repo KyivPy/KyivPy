@@ -1,3 +1,6 @@
 *.html
-*.py
 *.pyc
+output/*
+bin/*
+tmp/*
+
