@@ -1,0 +1,1 @@
+I am glad to announce that Andrew Druchenko from Nimble will have a talk on the Kyiv.Py#7 about different aspects of virtualization with the title "Double layered pie from the Amazon and OpenVZ"
